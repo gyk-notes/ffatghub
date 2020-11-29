@@ -6,5 +6,5 @@ title: C++
 ### I hate C++ even inside a nested block
 ### I hate c++ even in lower case
 ### Ah actually I don't hate it that much, I'm just testing regex escaping (for `++`)
-### But I like C#
+### But I like C#, although it looks like "C++++"
 ### In short, "C++" sucks.
