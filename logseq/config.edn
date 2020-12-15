@@ -15,7 +15,7 @@
  ;; need to use Markdown for some projects.
  ;; :preferred-format ""
  :shortcuts {
-             :zoom-in "ctrl+k"
+             :editor/zoom-in "ctrl+k"
              }
  ;; Git settings
  :git-pull-secs 60
