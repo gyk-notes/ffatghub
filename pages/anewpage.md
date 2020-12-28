@@ -1,0 +1,6 @@
+---
+title: aNewPage
+---
+
+## Yes
+##
