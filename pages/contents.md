@@ -3,6 +3,7 @@
 ## [[whatever]]
 ## {{embed [[whatever]] }}
 ## {{embed [[Python指南]] }}
+## {{embed [[Python Compass]] }}
 ##
 ##
 ##
