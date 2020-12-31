@@ -2,6 +2,7 @@
 ## [[Yes]]
 ## [[whatever]]
 ## {{embed [[whatever]] }}
+## {{embed [[Python指南]] }}
 ##
 ##
 ##
